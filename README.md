@@ -1,2 +1,6 @@
 # JS-Number-Guessing-Game
-Beginner level JavaScript number guessing game. Built by a beginner looking to find a passion for software developing.
+Beginner level web-based JavaScript number guessing game. Built by a beginner looking to find a passion for software developing.
+The game is very simple. The user must guess the randomly generated number by the application from 1 through 10. 
+Everytime the user guesses a number the application will compare it to the randomly generated number and give feedback to the user such as "a little higher", "a little lower", and "Correct".
+Technologies Used: HTML, JavaScript
+What I've learned: how to handle user input, how to use variables and conditional logic, how to update the page using JavaScript.
