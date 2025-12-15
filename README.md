@@ -8,4 +8,4 @@ Everytime the user guesses a number the application will compare it to the rando
 
 Technologies Used: HTML, JavaScript
 
-What I've learned: how to handle user input, how to use variables and conditional logic, how to update the page using JavaScript.
+What I've learned: How to handle user input, How to use variables and conditional logic, How to update the page using JavaScript.
